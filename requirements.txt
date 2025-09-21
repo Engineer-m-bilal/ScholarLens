@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+PyPDF2
+python-docx
+faiss-cpu
+openai
+sqlalchemy
+pydantic
+tqdm
+sentence-transformers
+python-multipart
+gunicorn
+python-dotenv
